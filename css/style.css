@@ -1,0 +1,51 @@
+body {
+    background-color: pink;
+}
+
+.navbar img {
+    width: 100px;
+    height: 50px;
+}
+
+.navbar {
+    background-color: #ccc;
+}
+
+.jumbotron {
+    margin-top: 50px;
+    background-image: url(../img/kucing.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.jumbotron img {
+    width: 300px;
+    border: 5px solid black;
+}
+
+.about {
+    margin-top: 50px;
+    min-height: 600px;
+}
+
+hr {
+    width: 300px;
+    border-top: 5px solid black;
+    margin: 0 auto 30px;
+}
+
+
+
+.card {
+    margin-bottom: 10px;
+}
+
+.carousel {
+    width: 80%;
+    margin: 100px auto;
+    border: 5px solid black;
+    overflow: hidden;
+}
+
+
